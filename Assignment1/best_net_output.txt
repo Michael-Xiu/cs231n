@@ -1,0 +1,57 @@
+F:\Anaconda\data\python.exe "C:/Users/Michael/Desktop/Sranford CNN/homework/Two_layer_nn/find_best_net.py"
+running
+finished
+hs 75 lr 7.000000e-04 reg 7.500000e-01 val accuracy: 0.466000
+hs 75 lr 7.000000e-04 reg 1.000000e+00 val accuracy: 0.477000
+hs 75 lr 7.000000e-04 reg 1.250000e+00 val accuracy: 0.467000
+hs 75 lr 8.000000e-04 reg 7.500000e-01 val accuracy: 0.477000
+hs 75 lr 8.000000e-04 reg 1.000000e+00 val accuracy: 0.478000
+hs 75 lr 8.000000e-04 reg 1.250000e+00 val accuracy: 0.497000
+hs 75 lr 9.000000e-04 reg 7.500000e-01 val accuracy: 0.495000
+hs 75 lr 9.000000e-04 reg 1.000000e+00 val accuracy: 0.481000
+hs 75 lr 9.000000e-04 reg 1.250000e+00 val accuracy: 0.464000
+hs 75 lr 1.000000e-03 reg 7.500000e-01 val accuracy: 0.500000
+hs 75 lr 1.000000e-03 reg 1.000000e+00 val accuracy: 0.489000
+hs 75 lr 1.000000e-03 reg 1.250000e+00 val accuracy: 0.477000
+hs 75 lr 1.100000e-03 reg 7.500000e-01 val accuracy: 0.468000
+hs 75 lr 1.100000e-03 reg 1.000000e+00 val accuracy: 0.496000
+hs 75 lr 1.100000e-03 reg 1.250000e+00 val accuracy: 0.490000
+hs 100 lr 7.000000e-04 reg 7.500000e-01 val accuracy: 0.456000
+hs 100 lr 7.000000e-04 reg 1.000000e+00 val accuracy: 0.485000
+hs 100 lr 7.000000e-04 reg 1.250000e+00 val accuracy: 0.472000
+hs 100 lr 8.000000e-04 reg 7.500000e-01 val accuracy: 0.473000
+hs 100 lr 8.000000e-04 reg 1.000000e+00 val accuracy: 0.487000
+hs 100 lr 8.000000e-04 reg 1.250000e+00 val accuracy: 0.492000
+hs 100 lr 9.000000e-04 reg 7.500000e-01 val accuracy: 0.497000
+hs 100 lr 9.000000e-04 reg 1.000000e+00 val accuracy: 0.489000
+hs 100 lr 9.000000e-04 reg 1.250000e+00 val accuracy: 0.477000
+hs 100 lr 1.000000e-03 reg 7.500000e-01 val accuracy: 0.506000
+hs 100 lr 1.000000e-03 reg 1.000000e+00 val accuracy: 0.504000
+hs 100 lr 1.000000e-03 reg 1.250000e+00 val accuracy: 0.485000
+hs 100 lr 1.100000e-03 reg 7.500000e-01 val accuracy: 0.504000
+hs 100 lr 1.100000e-03 reg 1.000000e+00 val accuracy: 0.493000
+hs 100 lr 1.100000e-03 reg 1.250000e+00 val accuracy: 0.480000
+hs 125 lr 7.000000e-04 reg 7.500000e-01 val accuracy: 0.485000
+hs 125 lr 7.000000e-04 reg 1.000000e+00 val accuracy: 0.485000
+hs 125 lr 7.000000e-04 reg 1.250000e+00 val accuracy: 0.479000
+hs 125 lr 8.000000e-04 reg 7.500000e-01 val accuracy: 0.490000
+hs 125 lr 8.000000e-04 reg 1.000000e+00 val accuracy: 0.486000
+hs 125 lr 8.000000e-04 reg 1.250000e+00 val accuracy: 0.497000
+hs 125 lr 9.000000e-04 reg 7.500000e-01 val accuracy: 0.483000
+hs 125 lr 9.000000e-04 reg 1.000000e+00 val accuracy: 0.482000
+hs 125 lr 9.000000e-04 reg 1.250000e+00 val accuracy: 0.494000
+hs 125 lr 1.000000e-03 reg 7.500000e-01 val accuracy: 0.492000
+hs 125 lr 1.000000e-03 reg 1.000000e+00 val accuracy: 0.494000
+hs 125 lr 1.000000e-03 reg 1.250000e+00 val accuracy: 0.481000
+hs 125 lr 1.100000e-03 reg 7.500000e-01 val accuracy: 0.488000
+hs 125 lr 1.100000e-03 reg 1.000000e+00 val accuracy: 0.481000
+hs 125 lr 1.100000e-03 reg 1.250000e+00 val accuracy: 0.487000
+best validation accuracy achieved during cross_validation 0.506000
+
+
+F:\Anaconda\data\python.exe "C:/Users/Michael/Desktop/Sranford CNN/homework/Two_layer_nn/best_net_perform.py"
+running
+finished
+hs 100 lr 1.000000e-03 reg 7.500000e-01 val accuracy: 0.503000
+best validation accuracy achieved during cross_validation 0.503000
+
